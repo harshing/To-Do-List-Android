@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+
+
+    <string name="title_section1">New Task</string>
+    <string name="title_section2">In-Progress Task</string>
+    <string name="title_section3">Completed Task</string>
+    <string name="title_section4">Pending Task</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
